@@ -5,8 +5,9 @@
     <classes>
       <class name="MyTestCases">
         <methods>
+          <include name="totalPriceRandomly"/>
+          <include name="theTotalItemsInTheCart"/>
           <include name="mySetup"/>
-          <include name="TestaddToCart"/>
         </methods>
       </class> <!-- MyTestCases -->
     </classes>

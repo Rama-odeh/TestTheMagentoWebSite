@@ -7,7 +7,9 @@
         <methods>
           <include name="totalPriceRandomly"/>
           <include name="theTotalItemsInTheCart"/>
+          <include name="addThreeFirstItemsOnWomenSection"/>
           <include name="mySetup"/>
+          <include name="TestaddToCart"/>
         </methods>
       </class> <!-- MyTestCases -->
     </classes>

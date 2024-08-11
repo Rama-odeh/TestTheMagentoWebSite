@@ -6,10 +6,11 @@
       <class name="MyTestCases">
         <methods>
           <include name="totalPriceRandomly"/>
+          <include name="initializeActions"/>
+          <include name="addToCart"/>
           <include name="theTotalItemsInTheCart"/>
           <include name="addThreeFirstItemsOnWomenSection"/>
-          <include name="mySetup"/>
-          <include name="TestaddToCart"/>
+          <include name="setUp"/>
         </methods>
       </class> <!-- MyTestCases -->
     </classes>
